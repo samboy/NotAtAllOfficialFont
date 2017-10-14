@@ -1,4 +1,5 @@
-This is a quick and dirty True Type render of the font at 
+This is a quick and dirty True Type render of the italic version
+of Source Serif Pro (Still a work in process); this font can be seen at 
 https://github.com/frankrolf/source-serif-pro  Only the normal weight
 is rendered; if you want more weights, download and install the free
 Fontforge, which will happily convert .ufo files in to .ttf files. Extra
